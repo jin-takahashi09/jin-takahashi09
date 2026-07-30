@@ -8,6 +8,8 @@
 
 ## 制作物
 
+### チーム制作
+
 <details open>
   <summary><strong>先生紹介サイト</strong></summary>
   <br>
