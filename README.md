@@ -18,10 +18,6 @@
       width="520"
     />
     <br><br>
-    <blockquote>
-      ポップでかわいいデザインの先生紹介ページ。<br>
-      Polaroid風の写真配置とスクロール型レイアウトで、先生の魅力が伝わるサイトです。
-    </blockquote>
     <p align="right"><strong>View Project →</strong></p>
   </a>
 </details>
