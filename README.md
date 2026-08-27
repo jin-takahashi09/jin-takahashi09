@@ -14,7 +14,7 @@
   <br>
   <a href="https://github.com/jin-takahashi09/FamilyTask">
     <img
-      src="https://github.com/user-attachments/assets/47d75a2a-3440-45d4-b21d-da6986f3061c"
+      src="https://github.com/user-attachments/assets/16f840f4-a3ec-4f53-b5fb-a675b9aa0124"
       alt="家族向けタスク管理アプリ"
       width="520"
     />
