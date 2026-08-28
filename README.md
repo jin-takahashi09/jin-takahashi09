@@ -24,7 +24,7 @@
 </details>
 
 <details open>
-  <summary><strong>タイピングゲーム/strong></summary>
+  <summary><strong>タイピングゲーム</strong></summary>
   <br>
   <a href="https://github.com/jin-takahashi09/Typing-game">
     <img
