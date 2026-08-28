@@ -28,7 +28,7 @@
   <br>
   <a href="https://github.com/jin-takahashi09/Typing-game">
     <img
-      src="ttps://github.com/user-attachments/assets/40239baa-e834-48be-97ce-1918db0faa94"
+      src="https://github.com/user-attachments/assets/e1a586c5-3223-44bd-8921-67085f0c0853"
       alt="タイピングゲーム"
       width="520"
     />
