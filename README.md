@@ -58,20 +58,5 @@
         <p align="right"><strong>View Project →</strong></p>
       </a>
     </td>
-    <td valign="top" width="50%" style="border: none;"></td>
-        <td valign="top" width="50%" style="border: none;">
-      <strong>英語単語帳アプリ</strong>
-      <br><br>
-      <a href="https://github.com/jin-takahashi09/fliply">
-        <img
-          src="https://github.com/user-attachments/assets/65ac662e-2b80-47d3-aadb-3e7203491b28"
-          alt="単語帳あぷり"
-          width="100%"
-        />
-        <br><br>
-        <p align="right"><strong>View Project →</strong></p>
-      </a>
-    </td>
-    <td valign="top" width="50%" style="border: none;"></td>
   </tr>
 </table>
