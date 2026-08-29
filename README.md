@@ -58,5 +58,18 @@
         <p align="right"><strong>View Project →</strong></p>
       </a>
     </td>
+    <td valign="top" width="50%" style="border: none;">
+      <strong>英語単語学習アプリ</strong>
+      <br><br>
+      <a href="https://github.com/jin-takahashi09/fliply">
+        <img
+          src="https://github.com/user-attachments/assets/ee3dedfe-c4f6-437f-8c8c-044246a946c5"
+          alt="英単語学習アプリ"
+          width="100%"
+        />
+        <br><br>
+        <p align="right"><strong>View Project →</strong></p>
+      </a>
+    </td>
   </tr>
 </table>
