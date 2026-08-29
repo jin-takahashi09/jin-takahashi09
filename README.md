@@ -64,7 +64,7 @@
       <br><br>
       <a href="https://github.com/jin-takahashi09/fliply">
         <img
-          src="https://github.com/user-attachments/assets/65ac662e-2b80-47d3-aadb-3e7203491b28" />
+          src="https://github.com/user-attachments/assets/65ac662e-2b80-47d3-aadb-3e7203491b28"
           alt="単語帳あぷり"
           width="100%"
         />
