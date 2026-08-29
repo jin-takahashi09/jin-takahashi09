@@ -59,7 +59,7 @@
       </a>
     </td>
     <td valign="top" width="50%" style="border: none;">
-      <strong>英語単語学習アプリ</strong>
+      <strong>英単語学習アプリ</strong>
       <br><br>
       <a href="https://github.com/jin-takahashi09/fliply">
         <img
