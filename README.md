@@ -10,9 +10,9 @@
 
 ### 個人制作
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td valign="top" width="50%" style="border: none;">
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
       <strong>家族共向けタスク管理アプリ</strong>
       <br><br>
       <a href="https://github.com/jin-takahashi09/FamilyTask">
@@ -25,7 +25,7 @@
         <p align="right"><strong>View Project →</strong></p>
       </a>
     </td>
-    <td valign="top" width="50%" style="border: none;">
+    <td valign="top" width="50%">
       <strong>タイピングゲーム</strong>
       <br><br>
       <a href="https://github.com/jin-takahashi09/Typing-game">
@@ -39,13 +39,29 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Cheri Livrer公式サイト</strong>
+      <br><br>
+      <a href="https://github.com/jin-takahashi09/cherilivrer">
+        <img
+          src="https://github.com/user-attachments/assets/22681dc8-c349-405c-b643-be842d08a04d"
+          alt="Cheri Livrerの画像"
+          width="100%"
+        />
+        <br><br>
+        <p align="right"><strong>View Project →</strong></p>
+      </a>
+    </td>
+    <td valign="top" width="50%"></td>
+  </tr>
 </table>
 
 ### チーム制作
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td valign="top" width="50%" style="border: none;">
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
       <strong>先生紹介サイト</strong>
       <br><br>
       <a href="https://app.notion.com/p/3a71e2c8cfea80f884d7d5bc943c2ed3?source=copy_link">
@@ -58,7 +74,7 @@
         <p align="right"><strong>View Project →</strong></p>
       </a>
     </td>
-    <td valign="top" width="50%" style="border: none;">
+    <td valign="top" width="50%">
       <strong>英単語学習アプリ</strong>
       <br><br>
       <a href="https://github.com/jin-takahashi09/fliply">
